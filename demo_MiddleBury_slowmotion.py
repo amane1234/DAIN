@@ -7,7 +7,7 @@ import numpy as np
 import numpy
 import networks
 from my_args import  args
-from scipy.misc import imread, imsave
+from imageio import imread, imsave
 from AverageMeter import  *
 import shutil
 
