@@ -122,7 +122,7 @@ Please install imageio and scipy by pip (or apt, AUR, tar... whatever you want)
 
 Download repository:
 
-    $ git clone https://github.com/baowenbo/DAIN.git
+    $ git clone https://github.com/amane1234/DAIN
 
 Before building Pytorch extensions, be sure you have `pytorch >= 1.0.0`:
     
