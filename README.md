@@ -110,14 +110,14 @@ If you find the code and datasets useful in your research, please cite:
 
 ### Installation
 
-Install imageio and scipy by pip (or apt, AUR, tar... whatever you want)
+Please install imageio and scipy by pip (or apt, AUR, tar... whatever you want)
+
 
   $  pip install imageio
   
   $  pip install numpy
   
   $  pip install scipy
-
 
 
 Download repository:
