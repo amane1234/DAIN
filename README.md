@@ -101,8 +101,9 @@ If you find the code and datasets useful in your research, please cite:
     }
 
 ### Requirements and Dependencies
-- Linux
-- Python3
+
+- Linux (I personally prefer manjaro linux)
+- Python3 (>= 3.6.8)
 - Cuda & Cudnn
 - PyTorch (>= 1.0.0)
 - GCC (Compiling PyTorch 1.0.0 extension files (.c/.cu) requires gcc = 4.9.1 and nvcc = 9.0 compilers)
